@@ -27,7 +27,6 @@ This comprehensive roadmap teaches **AI Security** from ground zero to expert le
 - Basic Linux command knowledge (ls, cd, mkdir, etc.)
 - Familiarity with one programming language (Python, Go, or similar)
 - 2-4 hours per week 
-- A GitHub account (free)
 - A laptop/computer with internet
 
 **Nice to Have:**
@@ -56,7 +55,7 @@ This comprehensive roadmap teaches **AI Security** from ground zero to expert le
 2. **MITRE ATLAS**
    - https://atlas.mitre.org/ - Official ATLAS
    - https://atlas.mitre.org/navigator/ - Interactive Navigator
-   - Case studies and real-world attacks
+   - Case studies and real-world attacks [To-Do]
 
 3. **NIST AI RMF**
    - https://www.nist.gov/itl/ai-risk-management-framework
