@@ -1,4 +1,4 @@
-## Phase 5: Advanced Topics & Specialization (Weeks 11-12)
+## Module 5: Advanced Topics & Specialization 
 
 ### Learning Objectives
 - Understand emerging threats (agentic AI, multi-turn attacks)
