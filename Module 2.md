@@ -1,4 +1,4 @@
-## Phase 2: LLM Vulnerabilities & Attacks 
+## Module 2: LLM Vulnerabilities & Attacks 
 
 ### Learning Objectives
 - Understand and exploit each OWASP LLM Top 10 vulnerability
