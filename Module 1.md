@@ -1,4 +1,4 @@
-## Phase 1: Core AI Security Concepts 
+## Module 1: Core AI Security Concepts 
 
 ### Learning Objectives
 - Understand the AI attack surface
