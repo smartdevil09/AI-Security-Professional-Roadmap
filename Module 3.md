@@ -1,4 +1,4 @@
-## Phase 3: AI Red Teaming & Tools 
+## Module 3: AI Red Teaming & Tools 
 
 ### Learning Objectives
 - Understand structured red teaming methodology
