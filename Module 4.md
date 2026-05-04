@@ -1,4 +1,4 @@
-## Phase 4: Enterprise & Supply Chain Security (Weeks 9-10)
+## Module 4: Enterprise & Supply Chain Security (Weeks 9-10)
 
 ### Learning Objectives
 - Understand AI supply chain risks
