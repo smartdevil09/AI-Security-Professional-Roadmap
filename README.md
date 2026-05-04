@@ -4,7 +4,7 @@
 
 ### What This Roadmap Covers
 
-This comprehensive roadmap teaches **AI Security** from ground zero to expert level. Even if you don't know what AI, ML, LLM, or agentic AI means, this path will guide you through everything.
+This comprehensive roadmap covers **AI Security** from ground zero to expert level. Even if you don't know what AI, ML, LLM, or agentic AI means, this path will guide you through everything.
 
 **What You'll Learn:**
 - How AI and Machine Learning actually work (from basics)
@@ -35,13 +35,13 @@ This comprehensive roadmap teaches **AI Security** from ground zero to expert le
 - Familiarity with DevOps/CI-CD pipelines
 
 
-## Phases to Follow (Check detailed for each Phase) 
-- Phase 0 : Foundations
-- Phase 1 : Core AI Security Concepts 
-- Phase 2 : LLM Vulnerabilities & Attacks
-- Phase 3 : AI Red Teaming & Tools
-- Phase 4 : Enterprise & Supply Chain Security
-- Phase 5 : Advanced Topics & Specialization
+## Modules to Follow (Check detailed for each Phase) 
+- Module 0 : Foundations
+- Module 1 : Core AI Security Concepts 
+- Module 2 : LLM Vulnerabilities & Attacks
+- Module 3 : AI Red Teaming & Tools
+- Module 4 : Enterprise & Supply Chain Security
+- Module 5 : Advanced Topics & Specialization
 
 ## Free Resources & Tools
 
@@ -65,6 +65,8 @@ This comprehensive roadmap teaches **AI Security** from ground zero to expert le
 4. **YouTube Channels**
    - StatQuest with Josh Starmer (ML fundamentals)
    - Computerphile (AI security)
+   - AISecurityOps
+   - ProbablyPrivate
    - DEF CON (security talks)
 
 
@@ -96,10 +98,11 @@ This comprehensive roadmap teaches **AI Security** from ground zero to expert le
    - Burp Suite Community (web testing)
    - OWASP ZAP (security scanning)
 
-6. **Training Courses**
-   - Hack The Box
-   - TryHackMe
-
+## **Training Courses**
+1. Hack The Box
+2. TryHackMe
+3. APISec University
+4. PracticalDevSecOps
 
 ## Certifications for AI security
 
