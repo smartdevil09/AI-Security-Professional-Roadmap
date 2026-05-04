@@ -1,4 +1,4 @@
-## Phase 0: Foundational Knowledge (Weeks 1-2)
+## Module 0: Foundational Knowledge (Weeks 1-2)
 
 ### Learning Objectives
 - Understand what AI and ML actually are (no hype, real concepts)
