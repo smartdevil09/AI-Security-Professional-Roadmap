@@ -88,9 +88,10 @@ This comprehensive roadmap covers **AI Security** from ground zero to expert lev
    - VS Code (free, open-source)
    - Docker (free, open-source)
 
-4. **Testing Frameworks**
+4. **Testing Tools and Libraries**
    - Pytest (Python testing)
    - promptfoo (LLM testing)
+   - Garak
    - BeautifulSoup (web scraping for indirect injection)
 
 5. **Security Tools**
@@ -102,7 +103,7 @@ This comprehensive roadmap covers **AI Security** from ground zero to expert lev
 1. Hack The Box
 2. TryHackMe
 3. APISec University
-4. PracticalDevSecOps
+4. Practical DevSecOps
 
 ## Certifications for AI security
 
