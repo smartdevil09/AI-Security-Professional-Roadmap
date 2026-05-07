@@ -50,9 +50,9 @@
   - What supervised vs. unsupervised learning means
   - What a neural network does
  
-#### Hands-On Labs - Excersise 1: Set Up Development Environment on your own machine. 
+#### Hands-On Labs - Exercise 1: Set Up Development Environment on your own machine. 
 
-#### Hands-On Labs - Excersise 2: Create your first ML model
+#### Hands-On Labs - Exercise 2: Create your first ML model
 
 ### Large Language Models (LLMs) Explained
 
