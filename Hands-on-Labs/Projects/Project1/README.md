@@ -22,55 +22,6 @@ A simple Decision Tree model is trained to classify data into:
 
 The purpose is not to build an accurate production model, but to understand the machine learning workflow.
 
-## Learning Goals
-
-After completing this exercise, you should understand:
-
-* Reading CSV files
-* Splitting features and labels
-* Training a model
-* Making predictions
-* Validating results
-* Understanding how decisions are made
-
-## Workflow
-
-```text
-CSV Data
-    ↓
-Load Dataset
-    ↓
-Separate Features and Labels
-    ↓
-Train Decision Tree
-    ↓
-Predict Results
-    ↓
-Validate Model
-```
-
-## Example Features
-
-| Feature  | Description     |
-| -------- | --------------- |
-| feature1 | Numeric feature |
-| feature2 | Numeric feature |
-| feature3 | Numeric feature |
-| label    | clean/noisy     |
-
-## Expected Learning Outcome
-
-The model learns simple rules such as:
-
-```text
-IF feature1 > value
-    classify as noisy
-ELSE
-    classify as clean
-```
-
-The goal is to understand that machine learning models learn patterns from examples.
-
 ---
 
 # Exercise 2: AI Risk Decision Tree
