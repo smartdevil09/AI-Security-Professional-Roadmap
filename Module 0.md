@@ -51,8 +51,13 @@
   - What a neural network does
  
 #### Hands-On Labs - Exercise 1: Set Up Development Environment on your own machine. 
+This module contain references for the required tools for creating your own lab.
 
-#### Hands-On Labs - Exercise 2: Create your first ML model
+#### Hands-On Labs - Exercise 2: Create your first ML model 
+This module contain example of AI model creation and training.
+
+#### Hands-On Labs - Project 1: Create your Decision Tree Based Model
+This module contains example of creating AI model using decision tree.
 
 ### Large Language Models (LLMs) Explained
 
