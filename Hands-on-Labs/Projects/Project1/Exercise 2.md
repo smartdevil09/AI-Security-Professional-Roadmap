@@ -198,3 +198,13 @@ print(confusion_matrix(y_test,predictions))
 python ai_risk_model.py
 ```
 
+
+---
+Now consider changing the training(ai_risk_train_1000.csv) and test(ai_risk_test_250.csv) data to view:
+* How model is being trained on dataset a little bigger dataset compared to the one shared in the example.
+* How does it affects its accuracy
+* Analyze its classification report and confusion matrix
+* Verify how many predictions does the model performed correctly from the test data shared.
+
+
+
