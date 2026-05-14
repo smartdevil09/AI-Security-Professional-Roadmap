@@ -149,3 +149,10 @@ print("Confusion Matrix:")
 print(confusion_matrix(y_test, predictions))
 ```
 
+----
+# Run Exercise 1
+
+```bash
+python decision_tree_learning.py
+```
+
