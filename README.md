@@ -131,3 +131,43 @@ This roadmap will take you from zero to expert in AI Security through:
 - LinkedIn AI Security groups
 - Local security meetups
 
+
+## Disclaimer
+
+This repository and all included datasets, models, examples, and code are created strictly for educational and research purposes with the help of AI in some parts of the project.
+
+The projects are intentionally simplified to help students and profesionals understand:
+
+- Machine learning fundamentals
+- Decision Tree model creation
+- Dataset preparation
+- Model validation concepts
+- Security and AI risk modeling concepts
+- Data poisoning effects on machine learning systems
+
+The datasets in this repository are synthetic and generated for learning exercises.
+
+They do not represent:
+
+- Real business environments
+- Real customer data
+- Real threat intelligence
+- Real security incidents
+- Production risk scoring methodologies
+
+Predictions produced by these models should not be treated as authoritative business, legal, financial, compliance, or security decisions.
+
+Real-world deployment would require additional controls including:
+
+- Larger and representative datasets
+- Domain expert review
+- Bias testing
+- Data quality validation
+- Explainability analysis
+- Security assessment
+- Continuous monitoring
+- Threat modeling and adversarial testing
+
+Any security examples included in this repository are intended to improve understanding of offensive security practices, defensive security practices and responsible AI development.
+
+Users are responsible for validating results before applying concepts in operational environments.
