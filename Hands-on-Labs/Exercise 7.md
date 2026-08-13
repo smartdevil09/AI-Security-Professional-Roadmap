@@ -1,4 +1,4 @@
-# Exercise 6: Securing AI Training Pipelines
+# Exercise 7: Securing AI Training Pipelines
 _Practical guidance for defending datasets, models, infrastructure, and CI/CD systems used in machine learning training._
 
 ## Why This Matters
@@ -325,13 +325,13 @@ Tools:
 
 Track:
 
-Dataset Version
-Source
-Owner
-Hash
-Date
-License
-Transformations
+- Dataset Version
+- Source
+- Owner
+- Hash
+- Date
+- License
+- Transformations
 
 Example:
 ```
@@ -350,28 +350,23 @@ model.pt
 tokenizer.json
 metadata.json
 
-Risk:
+Risk: Attacker replaces model
 
-Attacker replaces model
+Controls: cosign sign model.pt
 
-Controls:
+Verify: cosign verify model.pt
 
-cosign sign model.pt
-
-Verify:
-
-cosign verify model.pt
 #### 11. Model Registry Security
 
 Model registries become high-value targets.
 
 Controls:
 
-RBAC
-MFA
-Signing
-Approval workflows
-Immutable artifacts
+- RBAC
+- MFA
+- Signing
+- Approval workflows
+- Immutable artifacts
 
 Example:
 ```
