@@ -643,8 +643,12 @@ What would be the required steps that could be taken to identify and block that?
 That gives you a natural progression for the project:
 
 Step 1: Hash the dataset
+
 Step 2: Detect tampering
+
 Step 3: Block training
+
 Step 4: Sign datasets and artifacts
+
 Step 5: Verify provenance before deployment
 
