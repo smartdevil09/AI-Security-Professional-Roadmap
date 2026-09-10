@@ -43,6 +43,9 @@ This comprehensive roadmap covers **AI Security** from ground zero to expert lev
 - Module 4 : Enterprise & Supply Chain Security
 - Module 5 : Advanced Topics & Specialization
 
+## Modern AI Security Engineering Layer
+After completing the foundational modules, apply your knowledge to modern AI architectures including LLM applications, RAG, agentic systems, and MCP. This additional module focuses on designing, testing, securing, and operating real-world AI systems.
+
 ## Free Resources & Tools
 
 ### Free Learning Resources
