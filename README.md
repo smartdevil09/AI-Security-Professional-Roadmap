@@ -72,6 +72,9 @@ After completing the foundational modules, apply your knowledge to modern AI arc
    - ProbablyPrivate
    - DEF CON (security talks)
 
+5. **Real-World AI Incidents**
+   - https://github.com/Continuum-AI-Corp/Orca-AI-Incident-Archive - Orca AI Incident Archive
+
 
 ### Free Tools
 
