@@ -34,17 +34,44 @@ This comprehensive roadmap covers **AI Security** from ground zero to expert lev
 - Understanding of APIs and web concepts
 - Familiarity with DevOps/CI-CD pipelines
 
-
 ## Modules to Follow (Check detailed for each Phase) 
-- Module 0 : Foundations
-- Module 1 : Core AI Security Concepts 
-- Module 2 : LLM Vulnerabilities & Attacks
-- Module 3 : AI Red Teaming & Tools
-- Module 4 : Enterprise & Supply Chain Security
-- Module 5 : Advanced Topics & Specialization
+
+- Module 0: Foundations
+- Module 1: Core AI Security Concepts 
+- Module 2: LLM Vulnerabilities & Attacks
+- Module 3: AI Red Teaming & Tools
+- Module 4: Enterprise & Supply Chain Security
+- Module 5: Advanced Topics & Specialization
 
 ## Modern AI Security Engineering Layer
+
 After completing the foundational modules, apply your knowledge to modern AI architectures including LLM applications, RAG, agentic systems, and MCP. This additional module focuses on designing, testing, securing, and operating real-world AI systems.
+
+## Hands-On AI Security Training
+
+The foundation of AI security expertise requires hands-on practice with real attack scenarios and defensive implementations. These courses range from beginner-friendly labs to advanced penetration testing focused on AI systems.
+
+### Learning Platforms
+
+1. **Practical DevSecOps** - End-to-end security practices integrated into development pipelines
+   - Best for: Building secure AI deployment workflows
+   - Format: Hands-on labs with real tools
+   - Focus: DevSecOps principles applied to AI systems
+
+2. **Hack The Box** - Build core skills through vulnerable systems designed for practical learning
+   - Best for: Practical exploitation techniques
+   - Format: Interactive labs
+   - Focus: Web security and system hardening
+
+3. **TryHackMe** - Structured learning paths from security fundamentals to advanced topics
+   - Best for: Beginners and intermediate practitioners
+   - Format: Guided rooms with video walkthroughs
+   - Focus: Hands-on CTF-style challenges
+
+4. **APISec University** - API security and integration testing specific to AI systems
+   - Best for: Understanding AI system interfaces and attack surfaces
+   - Format: Free labs and certification
+   - Focus: REST APIs, authentication bypass, data exposure
 
 ## Free Resources & Tools
 
@@ -58,7 +85,7 @@ After completing the foundational modules, apply your knowledge to modern AI arc
 2. **MITRE ATLAS**
    - https://atlas.mitre.org/ - Official ATLAS
    - https://atlas.mitre.org/navigator/ - Interactive Navigator
-   - Case studies and real-world attacks [To-Do]
+   - Case studies and real-world attacks
 
 3. **NIST AI RMF**
    - https://www.nist.gov/itl/ai-risk-management-framework
@@ -72,17 +99,16 @@ After completing the foundational modules, apply your knowledge to modern AI arc
    - ProbablyPrivate
    - DEF CON (security talks)
 
-
 ### Free Tools
 
 1. **Local LLMs**
-   - Ollama ([https://ollama.com](https://ollama.com))
+   - Ollama (https://ollama.com)
    - LM Studio (https://lmstudio.ai)
    - GPT4All
 
 2. **Testing Platforms**
-   - Gandalf by Lakera ([https://gandalf.lakera.ai](https://gandalf.lakera.ai))
-   - Portswigger ([https://llmrisks.io](https://portswigger.net/web-security/llm-attacks))
+   - Gandalf by Lakera (https://gandalf.lakera.ai)
+   - Portswigger (https://portswigger.net/web-security/llm-attacks)
    - AI Security Lab Hub
 
 3. **Development Tools**
@@ -102,19 +128,36 @@ After completing the foundational modules, apply your knowledge to modern AI arc
    - Burp Suite Community (web testing)
    - OWASP ZAP (security scanning)
 
-## **Training Courses**
-1. Hack The Box
-2. TryHackMe
-3. APISec University
-4. Practical DevSecOps
+## Certifications for AI Security
 
-## Certifications for AI security
+Certifications validate technical competency in securing AI systems. The field splits into three areas: general AI security, specialized agentic AI (MCP, autonomous agents), and red teaming.
 
-1. **Certified AI Security Professional (CAISP)** 
-2. **SecAI+**
-3. **ISACA Advanced in AI Security Management™ (AAISM™)**
-4. **OffSec AI Red Teamer (OSAI)**
+### Core AI Security Certifications and Courses 2026 - 2027
 
+1. **[Certified AI Security Professional (CAISP) - Practical DevSecOps](https://www.practical-devsecops.com/certified-ai-security-professional/)**
+   - Covers: Model security, training data integrity, inference pipeline defense, supply chain risk
+   - Format: Self-paced with 30+ hands-on labs and job simulation exam
+   - Best for: Practitioners building secure LLMs / Models from development to production
+
+2. **[Certified Agentic AI Security Expert (CAASE) - Practical DevSecOps](https://www.practical-devsecops.com/certified-agentic-ai-security-expert/)**
+   - Covers: Agent threat modeling, goal integrity enforcement, tool execution sandboxing, multi-agent communication security, MCP server vetting, agent detection and containment
+   - Format: Self-paced with 30+ labs and 6-hour practical exam
+   - Best for: Security teams deploying autonomous agents in production and AI Security Engineers
+
+3. **[SecAI+ - CompTIA](https://www.comptia.org/en-us/certifications/secai/)**
+   - Covers: AI fundamentals, security architecture, compliance and governance
+   - Format: Exam-based certification
+   - Best for: Broad understanding of AI security across enterprise environments
+
+4. **[ISACA Advanced in AI Security Management (AAISM) - ISACA](https://www.isaca.org/credentialing/aaism)**
+   - Covers: AI governance, risk management, compliance frameworks
+   - Format: Management and leadership track
+   - Best for: Security leaders and architects making AI security decisions
+
+5. **[OffSec AI Red Teamer (OSAI) - Offensive Security](https://www.offsec.com/courses/ai-300/)**
+   - Covers: Adversarial attacks on AI systems, model evasion, prompt injection
+   - Format: Hands-on practical exam
+   - Best for: Offensive security professionals and penetration testers targeting AI
 
 ## Conclusion
 
@@ -126,7 +169,6 @@ This roadmap will take you from zero to expert in AI Security through:
 4. **Practical Tools** - Build and use security tools
 5. **Enterprise Knowledge** - Learn supply chain and governance
 
-
 **Community & Support:**
 - OWASP Community (https://owasp.org)
 - MITRE Community
@@ -134,12 +176,11 @@ This roadmap will take you from zero to expert in AI Security through:
 - LinkedIn AI Security groups
 - Local security meetups
 
-
 ## Disclaimer
 
 This repository and all included datasets, models, examples, and code are created strictly for educational and research purposes with the help of AI in some parts of the project.
 
-The projects are intentionally simplified to help students and profesionals understand:
+The projects are intentionally simplified to help students and professionals understand:
 
 - Machine learning fundamentals
 - Decision Tree model creation
